@@ -1,0 +1,1644 @@
+{
+  "ad_search_list": null,
+  "board_tabs": null,
+  "extra": {
+    "now": 1684920474000,
+    "fatal_item_ids": [],
+    "logid": "20230524172754F6634A7FE66189003446"
+  },
+  "log_pb": {
+    "impr_id": "20230524172754F6634A7FE66189003446"
+  },
+  "status_code": 0,
+  "data": {
+    "trending_desc": "实时上升热点",
+    "recommend_list": null,
+    "word_list": [
+      {
+        "word": "珠峰科考队成功登顶",
+        "hot_value": 0,
+        "word_type": 14,
+        "related_words": null,
+        "hotlist_param": "{\"version\":1}",
+        "discuss_video_count": 1,
+        "label": 0,
+        "can_extend_detail": false,
+        "sentence_id": "1219030",
+        "view_count": 0,
+        "drift_info": null,
+        "aweme_infos": null,
+        "word_sub_board": null
+      },
+      {
+        "video_count": 6,
+        "aweme_infos": null,
+        "word_sub_board": null,
+        "article_detail_count": 1,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/f95dfd043f264a77bece6c5c4ad6f80b_1684899864",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/f95dfd043f264a77bece6c5c4ad6f80b_1684899864~noop.jpeg?x-expires=1684940400&x-signature=YNQKPmbl%2Fr%2FiT2zCl1eS9esKyR8%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/f95dfd043f264a77bece6c5c4ad6f80b_1684899864~noop.jpeg?x-expires=1684940400&x-signature=5FL9qXFZqhrTJPKhOX8WgrisbaY%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/f95dfd043f264a77bece6c5c4ad6f80b_1684899864~noop.jpeg?x-expires=1684940400&x-signature=RbtFsYYeY1k0OJnquJM9HJvtQWw%3D&from=3218412987"
+          ]
+        },
+        "position": 1,
+        "word_type": 1,
+        "sentence_id": "1219050",
+        "event_time": 1684848056,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "sentence_tag": 4003,
+        "label": 8,
+        "emo_label": 0,
+        "hot_value": 11463944,
+        "group_id": "7235299221363954976",
+        "can_extend_detail": false,
+        "related_words": null,
+        "view_count": 66929049,
+        "display_style": 0,
+        "discuss_video_count": 1,
+        "word": "李天一全家福被网友打假"
+      },
+      {
+        "can_extend_detail": false,
+        "view_count": 61449021,
+        "sentence_tag": 5000,
+        "word_sub_board": null,
+        "label": 5,
+        "hot_value": 11441100,
+        "group_id": "7235193585946547488",
+        "sentence_id": "1219949",
+        "hotlist_param": "{\"version\":1}",
+        "discuss_video_count": 1,
+        "word": "天元邓刚和水猴子一起抓鳝鱼",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oY6tIWgIhvzANDEfrdBJNyg4KXrAeAC6EXOCN2",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oY6tIWgIhvzANDEfrdBJNyg4KXrAeAC6EXOCN2~noop.jpeg?x-expires=1684940400&x-signature=HRBpHK9jb7dBnwfZykd95ZOxAkc%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oY6tIWgIhvzANDEfrdBJNyg4KXrAeAC6EXOCN2~noop.jpeg?x-expires=1684940400&x-signature=IxZ84LFD9ZzIplIfcGqdFCE5nK4%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/oY6tIWgIhvzANDEfrdBJNyg4KXrAeAC6EXOCN2~noop.jpeg?x-expires=1684940400&x-signature=6vTelUE%2FpMgTT1oyXQ5f%2FZ5EWpc%3D&from=3218412987"
+          ]
+        },
+        "event_time": 1684905047,
+        "drift_info": null,
+        "aweme_infos": null,
+        "position": 2,
+        "video_count": 4,
+        "word_type": 1,
+        "related_words": null,
+        "article_detail_count": 0
+      },
+      {
+        "word_type": 1,
+        "event_time": 1684839717,
+        "related_words": null,
+        "hotlist_param": "{\"version\":1}",
+        "video_count": 6,
+        "can_extend_detail": false,
+        "drift_info": null,
+        "display_style": 0,
+        "word_sub_board": null,
+        "article_detail_count": 1,
+        "word": "财政部100亿预算改善普高条件",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/bc7db6d789774e76bcf86ff2b3708b21_1684806955",
+          "url_list": [
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/bc7db6d789774e76bcf86ff2b3708b21_1684806955~noop.jpeg?x-expires=1684940400&x-signature=fNzjdbKouij5HNAca1Uzgej%2FBEw%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/bc7db6d789774e76bcf86ff2b3708b21_1684806955~noop.jpeg?x-expires=1684940400&x-signature=4AKaLX%2BdcCcz%2BNu99%2BTaluTaYzw%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/bc7db6d789774e76bcf86ff2b3708b21_1684806955~noop.jpeg?x-expires=1684940400&x-signature=5TEm3VQ1MDhXKZ%2BSQqpPxOjD%2FOE%3D&from=3218412987"
+          ]
+        },
+        "view_count": 60526705,
+        "aweme_infos": null,
+        "sentence_tag": 4003,
+        "label": 3,
+        "hot_value": 11349485,
+        "sentence_id": "1218789",
+        "discuss_video_count": 1,
+        "position": 3,
+        "group_id": "7234534096306623805"
+      },
+      {
+        "word": "岳母有点抢新娘的镜",
+        "hot_value": 11058912,
+        "video_count": 2,
+        "can_extend_detail": false,
+        "word_type": 1,
+        "event_time": 1684910989,
+        "view_count": 59961099,
+        "aweme_infos": null,
+        "label": 1,
+        "position": 4,
+        "group_id": "7235484046117016871",
+        "sentence_tag": 20002,
+        "discuss_video_count": 1,
+        "word_sub_board": null,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oYzsSChFIBBNTEhMItepASFAYI3xlgJQAFA6fy",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oYzsSChFIBBNTEhMItepASFAYI3xlgJQAFA6fy~noop.jpeg?x-expires=1684940400&x-signature=YufubgYafSTzyyU94v9WDRh36qU%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oYzsSChFIBBNTEhMItepASFAYI3xlgJQAFA6fy~noop.jpeg?x-expires=1684940400&x-signature=cEY7%2Fp%2FxBLIyi0i1HP3DRqopmQE%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oYzsSChFIBBNTEhMItepASFAYI3xlgJQAFA6fy~noop.jpeg?x-expires=1684940400&x-signature=tm656S3kuqHcaN6qgG8OAMAfO%2Bc%3D&from=3218412987"
+          ]
+        },
+        "hotlist_param": "{\"version\":1}",
+        "sentence_id": "1220112",
+        "related_words": null,
+        "drift_info": null,
+        "article_detail_count": 0
+      },
+      {
+        "can_extend_detail": false,
+        "sentence_id": "1220067",
+        "event_time": 1684909542,
+        "related_words": null,
+        "view_count": 60476308,
+        "aweme_infos": null,
+        "word": "孙头头又又又被开除了",
+        "video_count": 3,
+        "article_detail_count": 0,
+        "hotlist_param": "{\"version\":1}",
+        "sentence_tag": 2002,
+        "word_sub_board": null,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/5e7e217e622647179f1303a80f33e5ff_1684849340",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/5e7e217e622647179f1303a80f33e5ff_1684849340~noop.jpeg?x-expires=1684940400&x-signature=rB0ggKuXQoGwSXk5iQtYBr%2Flwv4%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/5e7e217e622647179f1303a80f33e5ff_1684849340~noop.jpeg?x-expires=1684940400&x-signature=iGkqstYtnJWujp8p0IFn0LNkcHA%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/5e7e217e622647179f1303a80f33e5ff_1684849340~noop.jpeg?x-expires=1684940400&x-signature=Oyb7MkN1WE7xCjthv2UfOLQAkTI%3D&from=3218412987"
+          ]
+        },
+        "group_id": "7235172759914960132",
+        "drift_info": null,
+        "label": 0,
+        "word_type": 1,
+        "discuss_video_count": 1,
+        "hot_value": 10868378,
+        "position": 5
+      },
+      {
+        "label": 5,
+        "drift_info": null,
+        "sentence_tag": 2003,
+        "discuss_video_count": 1,
+        "word_sub_board": null,
+        "view_count": 64240275,
+        "aweme_infos": null,
+        "article_detail_count": 0,
+        "word": "怦然3女一纯欲系甜妹",
+        "hot_value": 10819509,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/6a6a5e270cc1414f8b33e0cd5c4abd30_1684856302",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/6a6a5e270cc1414f8b33e0cd5c4abd30_1684856302~noop.jpeg?x-expires=1684940400&x-signature=joUq6k3tr6tSdxzGSJxU4Y%2BK5EU%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/6a6a5e270cc1414f8b33e0cd5c4abd30_1684856302~noop.jpeg?x-expires=1684940400&x-signature=I%2BgUFYr3LypGQZbENJBxJ6hMNzI%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/6a6a5e270cc1414f8b33e0cd5c4abd30_1684856302~noop.jpeg?x-expires=1684940400&x-signature=7N1VBbIy6H4S0JLlBj7PKSrMK2Q%3D&from=3218412987"
+          ]
+        },
+        "position": 6,
+        "video_count": 6,
+        "group_id": "7234659082903262501",
+        "sentence_id": "1220230",
+        "event_time": 1684913471,
+        "can_extend_detail": false,
+        "word_type": 1,
+        "related_words": null,
+        "hotlist_param": "{\"version\":1}"
+      },
+      {
+        "can_extend_detail": false,
+        "video_count": 5,
+        "group_id": "7235400435737023782",
+        "hotlist_param": "{\"version\":1}",
+        "related_words": null,
+        "view_count": 56772417,
+        "drift_info": null,
+        "sentence_tag": 4004,
+        "word_sub_board": null,
+        "label": 0,
+        "hot_value": 10796666,
+        "word_type": 1,
+        "article_detail_count": 0,
+        "sentence_id": "1219842",
+        "event_time": 1684901342,
+        "aweme_infos": null,
+        "discuss_video_count": 1,
+        "word": "女子刀割啤酒桶瞬间爆炸",
+        "word_cover": {
+          "url_list": [
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/ocEAt8k6YBl4AOnCIbDxSCBgD1gehbJqfdIA9j~noop.jpeg?x-expires=1684940400&x-signature=IFYc%2FEeHmeml5aJQCGV1x%2BY%2BvyY%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ocEAt8k6YBl4AOnCIbDxSCBgD1gehbJqfdIA9j~noop.jpeg?x-expires=1684940400&x-signature=il5DwE7Zo2%2FTv8oL71ucwKvNz0o%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocEAt8k6YBl4AOnCIbDxSCBgD1gehbJqfdIA9j~noop.jpeg?x-expires=1684940400&x-signature=hBGycvQNC5AsffEdBQ%2Bhq5BtPRE%3D&from=3218412987"
+          ],
+          "uri": "tos-cn-p-0015/ocEAt8k6YBl4AOnCIbDxSCBgD1gehbJqfdIA9j"
+        },
+        "position": 7
+      },
+      {
+        "word_cover": {
+          "uri": "tos-cn-p-0015/okPvBmtD7EEbKyJ3ZABsJIg2EAfIdGnpyftBeC",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/okPvBmtD7EEbKyJ3ZABsJIg2EAfIdGnpyftBeC~noop.jpeg?x-expires=1684940400&x-signature=dHFznsd5xJGKPUgOGpuiMWlJHJo%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/okPvBmtD7EEbKyJ3ZABsJIg2EAfIdGnpyftBeC~noop.jpeg?x-expires=1684940400&x-signature=A2Hv066SzXSWR3ybrvklf2%2FuoW4%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/okPvBmtD7EEbKyJ3ZABsJIg2EAfIdGnpyftBeC~noop.jpeg?x-expires=1684940400&x-signature=DX5RLTjTk4n7y%2BpCGcmjBvX2IgE%3D&from=3218412987"
+          ]
+        },
+        "word_type": 1,
+        "sentence_id": "1219541",
+        "event_time": 1684893923,
+        "drift_info": null,
+        "group_id": "7235976191366239528",
+        "can_extend_detail": false,
+        "related_words": null,
+        "article_detail_count": 0,
+        "label": 3,
+        "position": 8,
+        "video_count": 5,
+        "view_count": 55572047,
+        "aweme_infos": null,
+        "word": "00后女子从13楼扔下笑气罐",
+        "hot_value": 10707988,
+        "hotlist_param": "{\"version\":1}",
+        "sentence_tag": 4003,
+        "discuss_video_count": 1,
+        "word_sub_board": null
+      },
+      {
+        "can_extend_detail": false,
+        "word_type": 1,
+        "view_count": 54475672,
+        "hotlist_param": "{\"version\":1}",
+        "word_sub_board": null,
+        "word": "贪官为升副省长愿花2亿",
+        "label": 3,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/ocVNzNJrAhpNItamRAygfBjtEcerASaZJAizK8",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocVNzNJrAhpNItamRAygfBjtEcerASaZJAizK8~noop.jpeg?x-expires=1684940400&x-signature=ubx9HqvdRyA5QGP0%2Fba%2FmLTEHhk%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ocVNzNJrAhpNItamRAygfBjtEcerASaZJAizK8~noop.jpeg?x-expires=1684940400&x-signature=zAAqSK6hm%2BsFadxAfEjjXEjQlkc%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/ocVNzNJrAhpNItamRAygfBjtEcerASaZJAizK8~noop.jpeg?x-expires=1684940400&x-signature=cLLoMwksT%2BxdK6JZ7kvLtPnZo4c%3D&from=3218412987"
+          ]
+        },
+        "event_time": 1684884177,
+        "related_words": null,
+        "drift_info": null,
+        "position": 9,
+        "sentence_id": "1219297",
+        "aweme_infos": null,
+        "hot_value": 10429395,
+        "video_count": 5,
+        "group_id": "7235394907514066214",
+        "sentence_tag": 3001,
+        "discuss_video_count": 1,
+        "article_detail_count": 2
+      },
+      {
+        "hotlist_param": "{\"version\":1}",
+        "aweme_infos": null,
+        "sentence_tag": 4003,
+        "word": "国泰总裁再次致歉",
+        "label": 1,
+        "video_count": 3,
+        "word_type": 1,
+        "related_words": null,
+        "hot_value": 10371206,
+        "group_id": "7235469068408018208",
+        "event_time": 1684905300,
+        "drift_info": null,
+        "article_detail_count": 12,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/o4bDSMPNQpyACCbBvbWnbAs9hiA8EgZgeiekgz",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/o4bDSMPNQpyACCbBvbWnbAs9hiA8EgZgeiekgz~noop.jpeg?x-expires=1684940400&x-signature=9Koo%2FgkeIx3PskIxqRV1Al%2Fc6c4%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/o4bDSMPNQpyACCbBvbWnbAs9hiA8EgZgeiekgz~noop.jpeg?x-expires=1684940400&x-signature=hTN%2BYxxUgHTjq7p%2BdBz%2FawGYqmw%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o4bDSMPNQpyACCbBvbWnbAs9hiA8EgZgeiekgz~noop.jpeg?x-expires=1684940400&x-signature=UO%2BhQruAP3A%2FZ9Oe%2Bx4x4gftsDs%3D&from=3218412987"
+          ]
+        },
+        "position": 10,
+        "can_extend_detail": false,
+        "view_count": 48894043,
+        "sentence_id": "1219962",
+        "discuss_video_count": 1,
+        "word_sub_board": null
+      },
+      {
+        "word_sub_board": null,
+        "hot_value": 10346876,
+        "view_count": 51217735,
+        "drift_info": null,
+        "word": "宁波老婆大人",
+        "video_count": 6,
+        "sentence_id": "1219937",
+        "event_time": 1684904822,
+        "related_words": null,
+        "discuss_video_count": 1,
+        "label": 0,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oUobnbbLADpDgGfhyHkg8B9aQb9XAegEDAOl0A",
+          "url_list": [
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/oUobnbbLADpDgGfhyHkg8B9aQb9XAegEDAOl0A~noop.jpeg?x-expires=1684940400&x-signature=W89wmfXIukFinG0OXCGez%2Flyq6Q%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oUobnbbLADpDgGfhyHkg8B9aQb9XAegEDAOl0A~noop.jpeg?x-expires=1684940400&x-signature=xKwCZ5Bn0gRGAJbIWvv8nFGOhec%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oUobnbbLADpDgGfhyHkg8B9aQb9XAegEDAOl0A~noop.jpeg?x-expires=1684940400&x-signature=9I9umIHxGL3HUxbC4JuhoMtLB98%3D&from=3218412987"
+          ]
+        },
+        "position": 11,
+        "article_detail_count": 1,
+        "hotlist_param": "{\"version\":1}",
+        "aweme_infos": null,
+        "sentence_tag": 4004,
+        "group_id": "6597801878275233031",
+        "can_extend_detail": false,
+        "word_type": 1
+      },
+      {
+        "related_words": null,
+        "aweme_infos": null,
+        "sentence_tag": 6000,
+        "word_sub_board": null,
+        "hot_value": 9957470,
+        "video_count": 7,
+        "sentence_id": "1220084",
+        "hotlist_param": "{\"version\":1}",
+        "article_detail_count": 0,
+        "position": 12,
+        "can_extend_detail": false,
+        "drift_info": null,
+        "event_time": 1684910142,
+        "view_count": 43861870,
+        "word": "OPPOReno10新机发布",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/81deb0aeeb50413689e45ff57a37d43d_1684894856",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/81deb0aeeb50413689e45ff57a37d43d_1684894856~noop.jpeg?x-expires=1684940400&x-signature=QfpHQ63p6um5RGDj2V8842jbZnE%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/81deb0aeeb50413689e45ff57a37d43d_1684894856~noop.jpeg?x-expires=1684940400&x-signature=Sn02rh%2BhUaidaWbxrE9hbTv08Eo%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/81deb0aeeb50413689e45ff57a37d43d_1684894856~noop.jpeg?x-expires=1684940400&x-signature=ZJ1uXvDxHX1g1pMD7AOgEX5ptCY%3D&from=3218412987"
+          ]
+        },
+        "group_id": "7234771052541809978",
+        "discuss_video_count": 1,
+        "label": 5,
+        "word_type": 1,
+        "room_count": 0
+      },
+      {
+        "video_count": 7,
+        "sentence_id": "1219784",
+        "event_time": 1684899832,
+        "word": "河北遵化一地农田变矿坑",
+        "position": 13,
+        "hotlist_param": "{\"version\":1}",
+        "aweme_infos": null,
+        "article_detail_count": 1,
+        "label": 0,
+        "word_type": 1,
+        "view_count": 51853434,
+        "drift_info": null,
+        "sentence_tag": 4003,
+        "discuss_video_count": 1,
+        "group_id": "7235394730631583014",
+        "related_words": null,
+        "can_extend_detail": false,
+        "word_sub_board": null,
+        "hot_value": 9880561,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/o0LkfqpEYA9zE94fgQ8cb7CngbLKTTXDAABG1g",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o0LkfqpEYA9zE94fgQ8cb7CngbLKTTXDAABG1g~noop.jpeg?x-expires=1684940400&x-signature=GkRwREMR%2BFAijhwrPUzNS%2B1C0Hg%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/o0LkfqpEYA9zE94fgQ8cb7CngbLKTTXDAABG1g~noop.jpeg?x-expires=1684940400&x-signature=%2B%2FzO3A%2FJC8u1ZAWslWXDzYnAcWs%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/o0LkfqpEYA9zE94fgQ8cb7CngbLKTTXDAABG1g~noop.jpeg?x-expires=1684940400&x-signature=Mx%2BW87Cf5WcmBAgB9znZoMigm2k%3D&from=3218412987"
+          ]
+        }
+      },
+      {
+        "discuss_video_count": 1,
+        "label": 8,
+        "hot_value": 9788375,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/o8gR0DxekAf6G2z2AnBFdZxZ8DgICQb9DA9DnC",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/o8gR0DxekAf6G2z2AnBFdZxZ8DgICQb9DA9DnC~noop.jpeg?x-expires=1684940400&x-signature=PN0t2BS%2BE4VYUYIhc46KdpbDesw%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o8gR0DxekAf6G2z2AnBFdZxZ8DgICQb9DA9DnC~noop.jpeg?x-expires=1684940400&x-signature=BJ9BHPfis8smHR5pYzr4osFCoGQ%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/o8gR0DxekAf6G2z2AnBFdZxZ8DgICQb9DA9DnC~noop.jpeg?x-expires=1684940400&x-signature=%2FofWUkR7YWtUa7vnq46YdB5YxIQ%3D&from=3218412987"
+          ]
+        },
+        "position": 14,
+        "sentence_id": "1219707",
+        "view_count": 52098214,
+        "aweme_infos": null,
+        "video_count": 42,
+        "hotlist_param": "{\"version\":1}",
+        "sentence_tag": 2007,
+        "word_sub_board": [
+          3
+        ],
+        "word_type": 1,
+        "article_detail_count": 0,
+        "word": "带着LettingGo走遍抖音",
+        "group_id": "7236509815290844427",
+        "can_extend_detail": false,
+        "event_time": 1684897881,
+        "related_words": null,
+        "drift_info": null
+      },
+      {
+        "group_id": "7235475095119041796",
+        "sentence_id": "1220001",
+        "hotlist_param": "{\"version\":1}",
+        "article_detail_count": 6,
+        "word": "成都轨道交通集团副董被查",
+        "can_extend_detail": false,
+        "drift_info": null,
+        "aweme_infos": null,
+        "word_sub_board": null,
+        "sentence_tag": 3001,
+        "discuss_video_count": 1,
+        "label": 1,
+        "hot_value": 9686810,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/489f3e7e4d0a4d20b851d5c4f1bdf06d_1684905923",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/489f3e7e4d0a4d20b851d5c4f1bdf06d_1684905923~noop.jpeg?x-expires=1684940400&x-signature=Yy9x%2Bhd63TqqU%2FHD5HdqmXkaGgU%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/489f3e7e4d0a4d20b851d5c4f1bdf06d_1684905923~noop.jpeg?x-expires=1684940400&x-signature=%2BMA2pu28XmonpouQ0%2FzTTgYb0jc%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/489f3e7e4d0a4d20b851d5c4f1bdf06d_1684905923~noop.jpeg?x-expires=1684940400&x-signature=wdLUGzz5q89EEB8xSQ136BL7iv0%3D&from=3218412987"
+          ]
+        },
+        "position": 15,
+        "word_type": 1,
+        "view_count": 43018285,
+        "video_count": 5,
+        "event_time": 1684908301,
+        "related_words": null
+      },
+      {
+        "video_count": 5,
+        "sentence_id": "1219623",
+        "event_time": 1684895581,
+        "word": "女子21万打的抗癌针是可乐",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oYIsakzAhBXHhg95fvQA78DAv9nNBbCFcbmdeN",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oYIsakzAhBXHhg95fvQA78DAv9nNBbCFcbmdeN~noop.jpeg?x-expires=1684940400&x-signature=vic40Q%2BDXp5HRkbHro7dmfEoqqY%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/oYIsakzAhBXHhg95fvQA78DAv9nNBbCFcbmdeN~noop.jpeg?x-expires=1684940400&x-signature=ADFDJ4d2MbV8dm%2BEoqa0iTIJ2C4%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oYIsakzAhBXHhg95fvQA78DAv9nNBbCFcbmdeN~noop.jpeg?x-expires=1684940400&x-signature=P1dvFjuOtxKxKeKbmq3MtB1etvM%3D&from=3218412987"
+          ]
+        },
+        "word_type": 1,
+        "sentence_tag": 4003,
+        "discuss_video_count": 1,
+        "label": 3,
+        "group_id": "7235371541033964838",
+        "word_sub_board": null,
+        "position": 16,
+        "aweme_infos": null,
+        "related_words": null,
+        "view_count": 44680491,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "article_detail_count": 3,
+        "hot_value": 9180873,
+        "can_extend_detail": false
+      },
+      {
+        "related_words": null,
+        "sentence_tag": 2008,
+        "word": "张婧仪Lisa金泰亨朴宝剑同框",
+        "hot_value": 9094351,
+        "video_count": 4,
+        "group_id": "7235202421341345057",
+        "can_extend_detail": false,
+        "aweme_infos": null,
+        "discuss_video_count": 1,
+        "label": 3,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oEwgZeeCA7jAPHDk9uOBA0v0MDQkIC8ZiTybbn",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oEwgZeeCA7jAPHDk9uOBA0v0MDQkIC8ZiTybbn~noop.jpeg?x-expires=1684940400&x-signature=Zu4TSfRFsEu6aytUE%2FYBza%2FaZuY%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oEwgZeeCA7jAPHDk9uOBA0v0MDQkIC8ZiTybbn~noop.jpeg?x-expires=1684940400&x-signature=kt5LyiGcNcYCOq1bsIePMeTx3Xo%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oEwgZeeCA7jAPHDk9uOBA0v0MDQkIC8ZiTybbn~noop.jpeg?x-expires=1684940400&x-signature=ExiViigWiHEqXD6XBv%2BMLdWFYFg%3D&from=3218412987"
+          ]
+        },
+        "position": 17,
+        "sentence_id": "1219298",
+        "event_time": 1684884193,
+        "word_sub_board": null,
+        "word_type": 1,
+        "view_count": 46365991,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "article_detail_count": 1
+      },
+      {
+        "label": 3,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/39924ce7765046508fe3388d65a464ea_1684888061",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/39924ce7765046508fe3388d65a464ea_1684888061~noop.jpeg?x-expires=1684940400&x-signature=lAbeU%2BT3t5DkAFFscQzQWFusAdE%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/39924ce7765046508fe3388d65a464ea_1684888061~noop.jpeg?x-expires=1684940400&x-signature=rjMpCMqEZgmINZCV6jarenM12qg%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/39924ce7765046508fe3388d65a464ea_1684888061~noop.jpeg?x-expires=1684940400&x-signature=xnlcRu%2BB3UNdpQdo894Gwfu3vdU%3D&from=3218412987"
+          ]
+        },
+        "video_count": 4,
+        "event_time": 1684856048,
+        "aweme_infos": null,
+        "sentence_tag": 4003,
+        "word": "6旬男医生猥亵女体检者被拘",
+        "hot_value": 9088037,
+        "position": 18,
+        "word_type": 1,
+        "can_extend_detail": false,
+        "related_words": null,
+        "view_count": 43793876,
+        "word_sub_board": null,
+        "discuss_video_count": 1,
+        "article_detail_count": 4,
+        "group_id": "7234658827793356089",
+        "sentence_id": "1219215",
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}"
+      },
+      {
+        "can_extend_detail": false,
+        "sentence_id": "1219105",
+        "hotlist_param": "{\"version\":1}",
+        "display_style": 0,
+        "word": "国泰3名空乘被解聘",
+        "hot_value": 9065457,
+        "word_cover": {
+          "uri": "tos-cn-i-dy/e57eab10121040c78e9f169320aec4cd",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-i-dy/e57eab10121040c78e9f169320aec4cd~noop.jpeg?x-expires=1684940400&x-signature=14Sc65hDfcOVqv3PanFb%2B5P7mmw%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-i-dy/e57eab10121040c78e9f169320aec4cd~noop.jpeg?x-expires=1684940400&x-signature=KThFaCYH2G7VP3wUaWpF6esTmjc%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-i-dy/e57eab10121040c78e9f169320aec4cd~noop.jpeg?x-expires=1684940400&x-signature=33LIxA9HhHGBFRYbfxuALYOeABg%3D&from=3218412987"
+          ]
+        },
+        "word_type": 1,
+        "discuss_video_count": 1,
+        "word_sub_board": null,
+        "article_detail_count": 3,
+        "position": 19,
+        "group_id": "7235361840913208609",
+        "view_count": 40575534,
+        "drift_info": null,
+        "aweme_infos": null,
+        "label": 0,
+        "video_count": 21,
+        "event_time": 1684850314,
+        "related_words": null,
+        "sentence_tag": 4003
+      },
+      {
+        "event_time": 1684853398,
+        "drift_info": null,
+        "sentence_tag": 4003,
+        "discuss_video_count": 1,
+        "word": "学生校内被老师开车撞倒身亡",
+        "sentence_id": "1219171",
+        "view_count": 36995590,
+        "group_id": "7234616689856517431",
+        "word_type": 1,
+        "can_extend_detail": false,
+        "aweme_infos": null,
+        "position": 20,
+        "video_count": 3,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/8e2b1098727e44b3b60b16b261504633_1684857795",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/8e2b1098727e44b3b60b16b261504633_1684857795~noop.jpeg?x-expires=1684940400&x-signature=SQmHSQqCaH2LJLg%2BE7Foj%2Fst8lQ%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/8e2b1098727e44b3b60b16b261504633_1684857795~noop.jpeg?x-expires=1684940400&x-signature=ve%2F8jO2aMDqTadeYe7rLublgib8%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/8e2b1098727e44b3b60b16b261504633_1684857795~noop.jpeg?x-expires=1684940400&x-signature=X4JT%2BvDpVgULTzeExRvOdIriQ2A%3D&from=3218412987"
+          ]
+        },
+        "related_words": null,
+        "hotlist_param": "{\"version\":1}",
+        "word_sub_board": null,
+        "article_detail_count": 0,
+        "label": 0,
+        "hot_value": 9041404
+      },
+      {
+        "position": 21,
+        "word_type": 1,
+        "event_time": 1684898715,
+        "view_count": 38419832,
+        "sentence_tag": 4003,
+        "hot_value": 9022921,
+        "label": 3,
+        "video_count": 4,
+        "group_id": "7236361175980774716",
+        "related_words": null,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "word_sub_board": null,
+        "word": "15岁少女为爱减肥不幸离世",
+        "article_detail_count": 3,
+        "aweme_infos": null,
+        "discuss_video_count": 1,
+        "can_extend_detail": false,
+        "sentence_id": "1219753",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oESWBbLFnAxkedeArtDgYmEubBNIAdOgb89cLA",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oESWBbLFnAxkedeArtDgYmEubBNIAdOgb89cLA~noop.jpeg?x-expires=1684940400&x-signature=R9MtVAANrVOpD8y7tbAGGaFrP%2Bo%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oESWBbLFnAxkedeArtDgYmEubBNIAdOgb89cLA~noop.jpeg?x-expires=1684940400&x-signature=YRgFE7BVKbXIKMROJnZSshvw3Y8%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oESWBbLFnAxkedeArtDgYmEubBNIAdOgb89cLA~noop.jpeg?x-expires=1684940400&x-signature=VimAw29MFaQlSus8GcZj5EB4X0c%3D&from=3218412987"
+          ]
+        }
+      },
+      {
+        "word": "法老向志愿军老兵捐款",
+        "can_extend_detail": false,
+        "sentence_id": "1219986",
+        "video_count": 5,
+        "event_time": 1684905832,
+        "aweme_infos": null,
+        "sentence_tag": 2010,
+        "label": 1,
+        "hot_value": 9004861,
+        "word_type": 1,
+        "view_count": 35266194,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "article_detail_count": 0,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oscrfVCYIDrW9q1BzoIBtnCC2QNJaxfbAAGe57",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oscrfVCYIDrW9q1BzoIBtnCC2QNJaxfbAAGe57~noop.jpeg?x-expires=1684940400&x-signature=bIbPDSn0wRsdpFbdv3CkkAyQ4yA%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oscrfVCYIDrW9q1BzoIBtnCC2QNJaxfbAAGe57~noop.jpeg?x-expires=1684940400&x-signature=4pb%2BBDIOFHQSUSyCwR7NuxU6q0M%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oscrfVCYIDrW9q1BzoIBtnCC2QNJaxfbAAGe57~noop.jpeg?x-expires=1684940400&x-signature=sesTl9HOzK4xBVi6TA65mVQdCdE%3D&from=3218412987"
+          ]
+        },
+        "position": 22,
+        "group_id": "7235780847894549763",
+        "related_words": null,
+        "discuss_video_count": 1,
+        "word_sub_board": null,
+        "emo_label": 0
+      },
+      {
+        "can_extend_detail": false,
+        "sentence_id": "1219440",
+        "sentence_tag": 4003,
+        "word": "男童失联身亡：嫌犯系生母继父",
+        "label": 3,
+        "hot_value": 8928017,
+        "position": 23,
+        "video_count": 11,
+        "group_id": "7235338664233866534",
+        "event_time": 1684890744,
+        "view_count": 37530521,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "word_sub_board": null,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/o8IDIa6BAnDvfA2PszVCb87xfBGeaQT57s2G3E",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o8IDIa6BAnDvfA2PszVCb87xfBGeaQT57s2G3E~noop.jpeg?x-expires=1684940400&x-signature=MyUOgvc%2FpFAIhIUMBFJgRyPoSXw%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/o8IDIa6BAnDvfA2PszVCb87xfBGeaQT57s2G3E~noop.jpeg?x-expires=1684940400&x-signature=8uBpTgVgHy2TESjhZstUEfazcng%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/o8IDIa6BAnDvfA2PszVCb87xfBGeaQT57s2G3E~noop.jpeg?x-expires=1684940400&x-signature=qfptsNkSKBqCjHBDBxryRilrZ68%3D&from=3218412987"
+          ]
+        },
+        "word_type": 1,
+        "article_detail_count": 4,
+        "related_words": null,
+        "aweme_infos": null,
+        "discuss_video_count": 1
+      },
+      {
+        "discuss_video_count": 1,
+        "word_sub_board": null,
+        "label": 0,
+        "can_extend_detail": false,
+        "related_words": null,
+        "aweme_infos": null,
+        "sentence_id": "1220056",
+        "event_time": 1684909337,
+        "drift_info": null,
+        "sentence_tag": 4003,
+        "word": "10岁遇害男孩父母曾流泪寻子",
+        "hot_value": 8907580,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/3af6639ba8354df2913f7694a53ce884_1684896954",
+          "url_list": [
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/3af6639ba8354df2913f7694a53ce884_1684896954~noop.jpeg?x-expires=1684940400&x-signature=gUURuAOd8r8ENygj%2BEe7MPvpu5A%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/3af6639ba8354df2913f7694a53ce884_1684896954~noop.jpeg?x-expires=1684940400&x-signature=xTjSelv2uh98zE6s9SrqUt9vwA4%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/3af6639ba8354df2913f7694a53ce884_1684896954~noop.jpeg?x-expires=1684940400&x-signature=yOUnoXxAftuir2%2Be25EYRg3Zbw0%3D&from=3218412987"
+          ]
+        },
+        "word_type": 1,
+        "view_count": 37643806,
+        "hotlist_param": "{\"version\":1}",
+        "display_style": 0,
+        "article_detail_count": 0,
+        "position": 24,
+        "video_count": 4,
+        "group_id": "7235447856626046246"
+      },
+      {
+        "word": "知情人称10岁男孩被继父埋进坟地",
+        "position": 25,
+        "event_time": 1684900230,
+        "aweme_infos": null,
+        "sentence_tag": 4003,
+        "word_sub_board": null,
+        "word_type": 1,
+        "sentence_id": "1219795",
+        "view_count": 34600163,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/ooIIghCBeFREyAwttT3NJu9iIKxzABflCniAVY",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ooIIghCBeFREyAwttT3NJu9iIKxzABflCniAVY~noop.jpeg?x-expires=1684940400&x-signature=t57KBUY6t8EGHkn%2BkdE%2BwINQX%2Fg%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ooIIghCBeFREyAwttT3NJu9iIKxzABflCniAVY~noop.jpeg?x-expires=1684940400&x-signature=9A2H3QCpjiYhg7cavh6RERuLcww%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/ooIIghCBeFREyAwttT3NJu9iIKxzABflCniAVY~noop.jpeg?x-expires=1684940400&x-signature=eYxjqHN1sSBn4JQIO68y%2BRTG1F4%3D&from=3218412987"
+          ]
+        },
+        "video_count": 7,
+        "group_id": "7236522046414689575",
+        "display_style": 0,
+        "discuss_video_count": 1,
+        "label": 0,
+        "hot_value": 8684027,
+        "can_extend_detail": false,
+        "related_words": null,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "article_detail_count": 3
+      },
+      {
+        "position": 26,
+        "hotlist_param": "{\"version\":1}",
+        "word": "谢娜机场落泪",
+        "word_cover": {
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/o8ty9EeBA4zNAtohygfChEmcA4bTIgBGskBCPA~noop.jpeg?x-expires=1684940400&x-signature=vFawDQs1b6msOhs5OVf0JX1xnts%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o8ty9EeBA4zNAtohygfChEmcA4bTIgBGskBCPA~noop.jpeg?x-expires=1684940400&x-signature=UoQXCfZBB1r1gQaisG0lVMXYias%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/o8ty9EeBA4zNAtohygfChEmcA4bTIgBGskBCPA~noop.jpeg?x-expires=1684940400&x-signature=7566UQi1ud%2BO12N0rVnJl7DfXm4%3D&from=3218412987"
+          ],
+          "uri": "tos-cn-p-0015/o8ty9EeBA4zNAtohygfChEmcA4bTIgBGskBCPA"
+        },
+        "word_type": 1,
+        "event_time": 1684899535,
+        "drift_info": null,
+        "sentence_tag": 2012,
+        "article_detail_count": 0,
+        "group_id": "6910474965045728515",
+        "can_extend_detail": false,
+        "aweme_infos": null,
+        "word_sub_board": null,
+        "label": 0,
+        "hot_value": 8535034,
+        "video_count": 3,
+        "sentence_id": "1219777",
+        "related_words": null,
+        "view_count": 31912478,
+        "discuss_video_count": 1
+      },
+      {
+        "group_id": "7235172924754679072",
+        "hotlist_param": "{\"version\":1}",
+        "discuss_video_count": 1,
+        "hot_value": 8522895,
+        "related_words": null,
+        "sentence_tag": 2012,
+        "label": 3,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/b62e900bf0194f179d2671154dd7d24e_1684839720",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/b62e900bf0194f179d2671154dd7d24e_1684839720~noop.jpeg?x-expires=1684940400&x-signature=NU1k5KV0f3zp9Ek8UpKvq0RolE4%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/b62e900bf0194f179d2671154dd7d24e_1684839720~noop.jpeg?x-expires=1684940400&x-signature=qZZq0LzRaNPbh6yb6VLx%2F304Y9U%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/b62e900bf0194f179d2671154dd7d24e_1684839720~noop.jpeg?x-expires=1684940400&x-signature=mI7m60J6mvZ%2BsztM1rVR%2BluebJ8%3D&from=3218412987"
+          ]
+        },
+        "event_time": 1684844076,
+        "view_count": 31861681,
+        "word_sub_board": null,
+        "drift_info": null,
+        "aweme_infos": null,
+        "word": "张译 颂文哥呢",
+        "position": 27,
+        "video_count": 3,
+        "can_extend_detail": false,
+        "word_type": 1,
+        "sentence_id": "1218924",
+        "article_detail_count": 3
+      },
+      {
+        "hot_value": 8387915,
+        "event_time": 1684909457,
+        "view_count": 30392678,
+        "label": 0,
+        "video_count": 4,
+        "hotlist_param": "{\"version\":1}",
+        "sentence_tag": 2009,
+        "display_style": 0,
+        "word_cover": {
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oohtIYghGCe9BIZE9BfyAshzguDNOAECttNANB~noop.jpeg?x-expires=1684940400&x-signature=ra7bq%2B95eVeY9yczyO314KRaGEM%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oohtIYghGCe9BIZE9BfyAshzguDNOAECttNANB~noop.jpeg?x-expires=1684940400&x-signature=xHqce74DrF3j3dhLBrcJq4aObf0%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/oohtIYghGCe9BIZE9BfyAshzguDNOAECttNANB~noop.jpeg?x-expires=1684940400&x-signature=dm7lMc6Xrp5WhL0lXIjWG7j%2F5Z8%3D&from=3218412987"
+          ],
+          "uri": "tos-cn-p-0015/oohtIYghGCe9BIZE9BfyAshzguDNOAECttNANB"
+        },
+        "position": 28,
+        "sentence_id": "1220064",
+        "discuss_video_count": 1,
+        "emo_label": 0,
+        "word": "刘亚仁被收押",
+        "can_extend_detail": false,
+        "word_type": 1,
+        "related_words": null,
+        "drift_info": null,
+        "aweme_infos": null,
+        "word_sub_board": null,
+        "article_detail_count": 6,
+        "group_id": "7236021996151854376"
+      },
+      {
+        "discuss_video_count": 1,
+        "word_sub_board": null,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/3ed63153cfdf40fdbda47f774eed774c_1684903278",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/3ed63153cfdf40fdbda47f774eed774c_1684903278~noop.jpeg?x-expires=1684940400&x-signature=zaNaJi5OIVQKcxtBBHJWrvo0sP4%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/3ed63153cfdf40fdbda47f774eed774c_1684903278~noop.jpeg?x-expires=1684940400&x-signature=GyN9QpWsJXREABW03ZjWiMQurio%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/3ed63153cfdf40fdbda47f774eed774c_1684903278~noop.jpeg?x-expires=1684940400&x-signature=Bf8849kzwzvPdyFTnEqYwLzmJrc%3D&from=3218412987"
+          ]
+        },
+        "group_id": "7236030374144120099",
+        "sentence_id": "1220079",
+        "view_count": 28250132,
+        "aweme_infos": null,
+        "article_detail_count": 0,
+        "label": 0,
+        "hot_value": 8294249,
+        "position": 29,
+        "can_extend_detail": false,
+        "related_words": null,
+        "video_count": 3,
+        "word_type": 1,
+        "event_time": 1684909955,
+        "hotlist_param": "{\"version\":1}",
+        "sentence_tag": 20002,
+        "word": "云冈石窟馆长为了宣传有多拼",
+        "drift_info": null
+      },
+      {
+        "word": "李立群带你沉浸式体验华表奖",
+        "label": 8,
+        "hot_value": 8293654,
+        "can_extend_detail": false,
+        "event_time": 1684908609,
+        "related_words": null,
+        "discuss_video_count": 1,
+        "group_id": "7235434640202700065",
+        "word_type": 1,
+        "view_count": 24834367,
+        "drift_info": null,
+        "display_style": 0,
+        "position": 30,
+        "video_count": 6,
+        "sentence_id": "1220021",
+        "sentence_tag": 2006,
+        "word_sub_board": null,
+        "article_detail_count": 1,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oM4QgDJA9aZIkAzbZsibzOYAACenABePCURAKX",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oM4QgDJA9aZIkAzbZsibzOYAACenABePCURAKX~noop.jpeg?x-expires=1684940400&x-signature=0jFobxx0UhDVsoQ1wxXUEkBRIQY%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oM4QgDJA9aZIkAzbZsibzOYAACenABePCURAKX~noop.jpeg?x-expires=1684940400&x-signature=QwwukBUiv3pIy8Ro9oAdrM8waL0%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oM4QgDJA9aZIkAzbZsibzOYAACenABePCURAKX~noop.jpeg?x-expires=1684940400&x-signature=V%2ByKYHGQjCVehumAGLqrYNlFPY8%3D&from=3218412987"
+          ]
+        },
+        "hotlist_param": "{\"version\":1}",
+        "aweme_infos": null
+      },
+      {
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "position": 31,
+        "can_extend_detail": false,
+        "word_type": 1,
+        "sentence_id": "1219016",
+        "event_time": 1684847243,
+        "aweme_infos": null,
+        "sentence_tag": 2006,
+        "word": "张艺凡红毯",
+        "label": 0,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oAABsfdJqNjRztZVetcBl7ANgNh8AhxINyAhEl",
+          "url_list": [
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/oAABsfdJqNjRztZVetcBl7ANgNh8AhxINyAhEl~noop.jpeg?x-expires=1684940400&x-signature=WwRrEMqBMJ8Ev4tLS4nzBsv%2FSGo%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oAABsfdJqNjRztZVetcBl7ANgNh8AhxINyAhEl~noop.jpeg?x-expires=1684940400&x-signature=ENMb5t9toub0Xivp1nNeSeGXP8s%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oAABsfdJqNjRztZVetcBl7ANgNh8AhxINyAhEl~noop.jpeg?x-expires=1684940400&x-signature=E%2Bk%2FlVpyiWJKTN24HmHH%2B9e3GdA%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "article_detail_count": 2,
+        "video_count": 3,
+        "group_id": "6784329226922235144",
+        "related_words": null,
+        "hot_value": 8263010,
+        "view_count": 23677569,
+        "discuss_video_count": 1
+      },
+      {
+        "position": 32,
+        "aweme_infos": null,
+        "display_style": 0,
+        "sentence_tag": 2005,
+        "discuss_video_count": 1,
+        "article_detail_count": 0,
+        "word": "Capper因声带问题暂停演出",
+        "hot_value": 8262928,
+        "word_cover": {
+          "uri": "tos-cn-i-0813/0dfb930aa63149069f788d750eaa43e9",
+          "url_list": [
+            "https://p6-sign.douyinpic.com/tos-cn-i-0813/0dfb930aa63149069f788d750eaa43e9~noop.jpeg?x-expires=1684940400&x-signature=gjRNwHKfaK03FwRPTWhaSt5Kwm4%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-i-0813/0dfb930aa63149069f788d750eaa43e9~noop.jpeg?x-expires=1684940400&x-signature=DIV38l8FaCr2VBwEXsmnCC0Fd9I%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-i-0813/0dfb930aa63149069f788d750eaa43e9~noop.jpeg?x-expires=1684940400&x-signature=vVBJ9iJ9z5dnvLFncdEzhQx%2BOQE%3D&from=3218412987"
+          ]
+        },
+        "view_count": 24538532,
+        "related_words": null,
+        "drift_info": null,
+        "word_sub_board": null,
+        "label": 0,
+        "can_extend_detail": false,
+        "word_type": 1,
+        "event_time": 1684887333,
+        "video_count": 4,
+        "group_id": "7235300917846414630",
+        "sentence_id": "1219396",
+        "hotlist_param": "{\"version\":1}"
+      },
+      {
+        "word_cover": {
+          "uri": "tos-cn-p-0015/owqspzNxIACQg6AANAnh7x9yNEhegJfiytBpNN",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/owqspzNxIACQg6AANAnh7x9yNEhegJfiytBpNN~noop.jpeg?x-expires=1684940400&x-signature=mP9Mg0ZK5uKF72xL5bfd2el%2Fego%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/owqspzNxIACQg6AANAnh7x9yNEhegJfiytBpNN~noop.jpeg?x-expires=1684940400&x-signature=dg6EvQ3Aqw68S6BJ8kIb1ELa5gU%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/owqspzNxIACQg6AANAnh7x9yNEhegJfiytBpNN~noop.jpeg?x-expires=1684940400&x-signature=2TFxtBDrcpk4RjV1K6yrPpmQRT4%3D&from=3218412987"
+          ]
+        },
+        "video_count": 3,
+        "event_time": 1684908368,
+        "sentence_tag": 4004,
+        "discuss_video_count": 1,
+        "label": 1,
+        "position": 33,
+        "related_words": null,
+        "hotlist_param": "{\"version\":1}",
+        "aweme_infos": null,
+        "word_sub_board": null,
+        "article_detail_count": 0,
+        "word": "吴孟超掰指头算账为患者省钱",
+        "hot_value": 8184443,
+        "group_id": "7234775476249761084",
+        "view_count": 21166566,
+        "can_extend_detail": false,
+        "word_type": 1,
+        "sentence_id": "1220007",
+        "drift_info": null
+      },
+      {
+        "drift_info": null,
+        "label": 0,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oYzsjCNhIBPNsEho9NekA4GAqnvrkgzxBWAkfy",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oYzsjCNhIBPNsEho9NekA4GAqnvrkgzxBWAkfy~noop.jpeg?x-expires=1684940400&x-signature=LPMtDXwtWzGtGLe4eDXb4LYLlPE%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oYzsjCNhIBPNsEho9NekA4GAqnvrkgzxBWAkfy~noop.jpeg?x-expires=1684940400&x-signature=rN7CjEbcH1rYEcfZndhF5XmWV%2B0%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/oYzsjCNhIBPNsEho9NekA4GAqnvrkgzxBWAkfy~noop.jpeg?x-expires=1684940400&x-signature=gvAfhy4PgvlxgfCPjygJzzhw%2FxM%3D&from=3218412987"
+          ]
+        },
+        "group_id": "7115630545673229571",
+        "word_type": 1,
+        "event_time": 1684841011,
+        "related_words": null,
+        "view_count": 21266281,
+        "sentence_tag": 2006,
+        "hot_value": 8167284,
+        "position": 34,
+        "video_count": 4,
+        "hotlist_param": "{\"version\":1}",
+        "word_sub_board": null,
+        "word": "沈腾真的瘦了",
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "article_detail_count": 2,
+        "sentence_id": "1218856",
+        "aweme_infos": null
+      },
+      {
+        "hot_value": 8107419,
+        "video_count": 7,
+        "group_id": "7235199280386381067",
+        "view_count": 19734550,
+        "drift_info": null,
+        "display_style": 0,
+        "discuss_video_count": 1,
+        "emo_label": 0,
+        "aweme_infos": null,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/ocVCpNhIEAgyoKNNpvfNsX5coV6j0AAkzBleBE",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ocVCpNhIEAgyoKNNpvfNsX5coV6j0AAkzBleBE~noop.jpeg?x-expires=1684940400&x-signature=0ayJx0IVqxFU81paxeO11AljPkg%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocVCpNhIEAgyoKNNpvfNsX5coV6j0AAkzBleBE~noop.jpeg?x-expires=1684940400&x-signature=eboxqXX55%2ByzHnh5%2ByTkzNJ2rWs%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/ocVCpNhIEAgyoKNNpvfNsX5coV6j0AAkzBleBE~noop.jpeg?x-expires=1684940400&x-signature=1valTUpRwr2sP7TqCxzVVyPl3Ss%3D&from=3218412987"
+          ]
+        },
+        "position": 35,
+        "word_type": 1,
+        "sentence_id": "1219028",
+        "event_time": 1684847538,
+        "related_words": null,
+        "hotlist_param": "{\"version\":1}",
+        "article_detail_count": 6,
+        "word": "张子枫任素汐华表奖优秀女演员",
+        "label": 0,
+        "can_extend_detail": false,
+        "sentence_tag": 2006,
+        "word_sub_board": null
+      },
+      {
+        "aweme_infos": null,
+        "discuss_video_count": 1,
+        "word_sub_board": null,
+        "article_detail_count": 0,
+        "word_type": 1,
+        "group_id": "7235434625106744616",
+        "sentence_id": "1218771",
+        "related_words": null,
+        "position": 36,
+        "video_count": 7,
+        "can_extend_detail": false,
+        "word": "苏醒王栎鑫被孩子整破防了",
+        "hot_value": 8104168,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/okIOKeuADQDIgGbaJZbEUbNA9wqgknCUAFeiBg",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/okIOKeuADQDIgGbaJZbEUbNA9wqgknCUAFeiBg~noop.jpeg?x-expires=1684940400&x-signature=DFPZsP1rXRCo7ICSMHVH3QurWZE%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/okIOKeuADQDIgGbaJZbEUbNA9wqgknCUAFeiBg~noop.jpeg?x-expires=1684940400&x-signature=YTjmrd1HaT73nRNYAJDOgJXB8l0%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/okIOKeuADQDIgGbaJZbEUbNA9wqgknCUAFeiBg~noop.jpeg?x-expires=1684940400&x-signature=9WkB%2BJM4zNptSjVpGYctsEb83M4%3D&from=3218412987"
+          ]
+        },
+        "event_time": 1684838545,
+        "view_count": 18339215,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "sentence_tag": 2003,
+        "label": 5
+      },
+      {
+        "word": "妻子的新世界开播",
+        "group_id": "7017710140897350943",
+        "hot_value": 8092775,
+        "word_type": 1,
+        "hotlist_param": "{\"version\":1}",
+        "sentence_tag": 2002,
+        "aweme_infos": null,
+        "position": 37,
+        "video_count": 6,
+        "can_extend_detail": false,
+        "event_time": 1684910907,
+        "related_words": null,
+        "view_count": 17142067,
+        "drift_info": null,
+        "discuss_video_count": 1,
+        "label": 5,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/81fcd0f8bd52467ba8816ccce2660b82_1684872162",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/81fcd0f8bd52467ba8816ccce2660b82_1684872162~noop.jpeg?x-expires=1684940400&x-signature=1GQurinba3ZidvAjX7tZ%2FGACzro%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/81fcd0f8bd52467ba8816ccce2660b82_1684872162~noop.jpeg?x-expires=1684940400&x-signature=TGyKnpWX9ZlzsdNm4Bdix6krmkE%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/81fcd0f8bd52467ba8816ccce2660b82_1684872162~noop.jpeg?x-expires=1684940400&x-signature=YmnvL22kicr30I7cYlu%2FwCpyHQM%3D&from=3218412987"
+          ]
+        },
+        "sentence_id": "1220110",
+        "word_sub_board": null,
+        "article_detail_count": 5
+      },
+      {
+        "hotlist_param": "{\"version\":1}",
+        "aweme_infos": null,
+        "word_sub_board": null,
+        "label": 0,
+        "sentence_id": "1217489",
+        "sentence_tag": 20002,
+        "video_count": 5,
+        "position": 38,
+        "can_extend_detail": false,
+        "related_words": null,
+        "view_count": 16045481,
+        "article_detail_count": 0,
+        "word": "小学生的崩溃瞬间",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/e8e658f699a74b9f90d1e1ee33da8aff_1684766032",
+          "url_list": [
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/e8e658f699a74b9f90d1e1ee33da8aff_1684766032~noop.jpeg?x-expires=1684940400&x-signature=42IVvfEO2GzNxmfOe8CVBBw6jUA%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/e8e658f699a74b9f90d1e1ee33da8aff_1684766032~noop.jpeg?x-expires=1684940400&x-signature=rYhjNFJ0WaIylR5H%2BbPfNp7Atc4%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/e8e658f699a74b9f90d1e1ee33da8aff_1684766032~noop.jpeg?x-expires=1684940400&x-signature=IlbQ6p3xcCpH6c6FY2gjbowPbiM%3D&from=3218412987"
+          ]
+        },
+        "group_id": "6804396261018440964",
+        "word_type": 1,
+        "event_time": 1684802963,
+        "drift_info": null,
+        "discuss_video_count": 1,
+        "hot_value": 8076430
+      },
+      {
+        "word_type": 1,
+        "sentence_id": "1218738",
+        "event_time": 1684837717,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "discuss_video_count": 1,
+        "label": 0,
+        "video_count": 3,
+        "group_id": "7235151951486178592",
+        "related_words": null,
+        "word": "杜小华跟孩子采血等待结果",
+        "position": 39,
+        "can_extend_detail": false,
+        "sentence_tag": 4003,
+        "word_sub_board": null,
+        "hot_value": 8040282,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/o0FHLk17bABPDpnoAbvYaOQgFe9eBbxMoCDIA2",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/o0FHLk17bABPDpnoAbvYaOQgFe9eBbxMoCDIA2~noop.jpeg?x-expires=1684940400&x-signature=kskEuXJ1x9NIi8qCkmg3rwOayEw%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/o0FHLk17bABPDpnoAbvYaOQgFe9eBbxMoCDIA2~noop.jpeg?x-expires=1684940400&x-signature=qT1Fmw5denPMTabsdvWugRGcm7E%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o0FHLk17bABPDpnoAbvYaOQgFe9eBbxMoCDIA2~noop.jpeg?x-expires=1684940400&x-signature=rMsZZUUsDLHKXUmUxygjJh9hKj8%3D&from=3218412987"
+          ]
+        },
+        "view_count": 15410927,
+        "aweme_infos": null,
+        "article_detail_count": 1
+      },
+      {
+        "video_count": 3,
+        "can_extend_detail": false,
+        "sentence_tag": 20005,
+        "display_style": 0,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/og2etwwABGCHzZAoufPpEIgM1QO0en79s4sB2v",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/og2etwwABGCHzZAoufPpEIgM1QO0en79s4sB2v~noop.jpeg?x-expires=1684940400&x-signature=O2T%2FcG1%2BAGVgJNwOZ6oG5glqlfo%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/og2etwwABGCHzZAoufPpEIgM1QO0en79s4sB2v~noop.jpeg?x-expires=1684940400&x-signature=8vMf711XcELtTYcShbYfzT20oRw%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/og2etwwABGCHzZAoufPpEIgM1QO0en79s4sB2v~noop.jpeg?x-expires=1684940400&x-signature=PHw7Ttjj5cP4GMw6RyDmRRPYLt4%3D&from=3218412987"
+          ]
+        },
+        "sentence_id": "1217160",
+        "view_count": 12663708,
+        "hotlist_param": "{\"version\":1}",
+        "discuss_video_count": 1,
+        "word": "B太曝光常州大学城鬼秤泛滥",
+        "position": 40,
+        "event_time": 1684761916,
+        "aweme_infos": null,
+        "word_sub_board": null,
+        "article_detail_count": 0,
+        "label": 0,
+        "hot_value": 7993966,
+        "group_id": "7235116160639014148",
+        "word_type": 1,
+        "related_words": null,
+        "drift_info": null
+      },
+      {
+        "drift_info": null,
+        "aweme_infos": null,
+        "sentence_tag": 3002,
+        "word_sub_board": null,
+        "word_type": 1,
+        "sentence_id": "1219699",
+        "group_id": "7235385660008535335",
+        "hotlist_param": "{\"version\":1}",
+        "discuss_video_count": 1,
+        "label": 0,
+        "video_count": 4,
+        "position": 41,
+        "event_time": 1684897794,
+        "word": "秦刚：中荷面临非常不正常现象",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oUbyajSyWAEGCeuFgEfSNqNzuNL7jWthAABttI",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oUbyajSyWAEGCeuFgEfSNqNzuNL7jWthAABttI~noop.jpeg?x-expires=1684940400&x-signature=bDPPbGGbYjK6L2yWdpaCWQmW5TU%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oUbyajSyWAEGCeuFgEfSNqNzuNL7jWthAABttI~noop.jpeg?x-expires=1684940400&x-signature=2Jrc3uA1GJWgaIOlFaB1vvnlzOM%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/oUbyajSyWAEGCeuFgEfSNqNzuNL7jWthAABttI~noop.jpeg?x-expires=1684940400&x-signature=uSj9pBq3p0wu0pocFzPkv3e%2F5j8%3D&from=3218412987"
+          ]
+        },
+        "related_words": null,
+        "view_count": 11491041,
+        "article_detail_count": 0,
+        "hot_value": 7991092,
+        "can_extend_detail": false
+      },
+      {
+        "event_time": 1684836522,
+        "drift_info": null,
+        "hot_value": 7969505,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/2504a493dfd44ee98933da954256aaf4_1684828054",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/2504a493dfd44ee98933da954256aaf4_1684828054~noop.jpeg?x-expires=1684940400&x-signature=n2mWr5nBhy1rDUzIRvp06aYV%2FfI%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/2504a493dfd44ee98933da954256aaf4_1684828054~noop.jpeg?x-expires=1684940400&x-signature=Wgll5iIu75ywgen8fEjee6EyELs%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/2504a493dfd44ee98933da954256aaf4_1684828054~noop.jpeg?x-expires=1684940400&x-signature=1eO1gA9dCyWxlBjmnycIyfeL3TU%3D&from=3218412987"
+          ]
+        },
+        "group_id": "7235149194553349415",
+        "article_detail_count": 0,
+        "can_extend_detail": false,
+        "related_words": null,
+        "view_count": 9142834,
+        "hotlist_param": "{\"version\":1}",
+        "sentence_tag": 3002,
+        "discuss_video_count": 1,
+        "word": "美撤回对涉华公司拨款 中方回应",
+        "video_count": 3,
+        "word_sub_board": null,
+        "word_type": 1,
+        "sentence_id": "1218686",
+        "aweme_infos": null,
+        "label": 0,
+        "position": 42
+      },
+      {
+        "event_time": 1684913121,
+        "display_style": 0,
+        "word_cover": {
+          "uri": "tos-cn-v-22574f/o8bkDfNb0fnb0bvDCc8kFIvmAWa9QgBgblCDtC",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-v-22574f/o8bkDfNb0fnb0bvDCc8kFIvmAWa9QgBgblCDtC~noop.jpeg?x-expires=1684940400&x-signature=QrZomNQ4BF%2BzG6YvEzuKYT54RDc%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-v-22574f/o8bkDfNb0fnb0bvDCc8kFIvmAWa9QgBgblCDtC~noop.jpeg?x-expires=1684940400&x-signature=IbVnqw0mVMSRAmVePFDfpQor1q0%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-v-22574f/o8bkDfNb0fnb0bvDCc8kFIvmAWa9QgBgblCDtC~noop.jpeg?x-expires=1684940400&x-signature=1KzseZVOTq%2F11%2BHKGlb18fsirb8%3D&from=3218412987"
+          ]
+        },
+        "position": 43,
+        "group_id": "6723883787261842696",
+        "sentence_id": "1220221",
+        "article_detail_count": 6,
+        "emo_label": 0,
+        "word": "国泰航空是哪里的公司",
+        "can_extend_detail": false,
+        "aweme_infos": null,
+        "sentence_tag": 20001,
+        "drift_info": null,
+        "word_sub_board": null,
+        "hot_value": 7951170,
+        "video_count": 3,
+        "word_type": 1,
+        "related_words": null,
+        "label": 1,
+        "view_count": 8999244,
+        "hotlist_param": "{\"version\":1}",
+        "discuss_video_count": 1
+      },
+      {
+        "drift_info": null,
+        "sentence_tag": 20005,
+        "discuss_video_count": 1,
+        "word": "如何看待520结婚人数下跌",
+        "label": 0,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/75d58a4f35014f4f8e7f7a3278f9c8b2_1684814932",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/75d58a4f35014f4f8e7f7a3278f9c8b2_1684814932~noop.jpeg?x-expires=1684940400&x-signature=jbKCTaNkJTPmOcCGa%2BvFK7%2FC638%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/75d58a4f35014f4f8e7f7a3278f9c8b2_1684814932~noop.jpeg?x-expires=1684940400&x-signature=qrDiEgeBhjriZ1LIHmlBzQ8XbHU%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/75d58a4f35014f4f8e7f7a3278f9c8b2_1684814932~noop.jpeg?x-expires=1684940400&x-signature=4qHpYAwDp8nFagyldSsHaOaZgRk%3D&from=3218412987"
+          ]
+        },
+        "group_id": "7235806636995843363",
+        "related_words": null,
+        "view_count": 7452425,
+        "hotlist_param": "{\"version\":1}",
+        "article_detail_count": 4,
+        "event_time": 1684838479,
+        "aweme_infos": null,
+        "word_sub_board": null,
+        "position": 44,
+        "can_extend_detail": false,
+        "word_type": 1,
+        "sentence_id": "1218766",
+        "hot_value": 7936833,
+        "video_count": 12
+      },
+      {
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oEk3IQeRZdCdpZfaACnAQsbF9Dkg1BDAYWDZbI",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oEk3IQeRZdCdpZfaACnAQsbF9Dkg1BDAYWDZbI~noop.jpeg?x-expires=1684940400&x-signature=snUAhobhIlq003tm%2F7YvVQBH02o%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oEk3IQeRZdCdpZfaACnAQsbF9Dkg1BDAYWDZbI~noop.jpeg?x-expires=1684940400&x-signature=SyCMGf7dQSFDWTAuVio%2FuOGosZ8%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oEk3IQeRZdCdpZfaACnAQsbF9Dkg1BDAYWDZbI~noop.jpeg?x-expires=1684940400&x-signature=y2Sl2bMj5xRwefli0kVri%2BOJR6g%3D&from=3218412987"
+          ]
+        },
+        "sentence_id": "1218863",
+        "drift_info": null,
+        "aweme_infos": null,
+        "sentence_tag": 4004,
+        "word_sub_board": null,
+        "word": "福利院长大的女孩出嫁了",
+        "hot_value": 7871489,
+        "event_time": 1684841202,
+        "related_words": null,
+        "view_count": 7037493,
+        "label": 0,
+        "position": 45,
+        "discuss_video_count": 1,
+        "article_detail_count": 0,
+        "group_id": "7163620871549441291",
+        "word_type": 1,
+        "hotlist_param": "{\"version\":1}",
+        "display_style": 0,
+        "video_count": 4,
+        "can_extend_detail": false
+      },
+      {
+        "sentence_tag": 20002,
+        "position": 46,
+        "video_count": 4,
+        "can_extend_detail": false,
+        "word_type": 1,
+        "hotlist_param": "{\"version\":1}",
+        "aweme_infos": null,
+        "discuss_video_count": 1,
+        "hot_value": 7859382,
+        "article_detail_count": 0,
+        "label": 0,
+        "sentence_id": "1218637",
+        "related_words": null,
+        "view_count": 5205541,
+        "word": "老师长得太像学生是什么体验",
+        "group_id": "7123222636793124132",
+        "event_time": 1684834499,
+        "drift_info": null,
+        "word_sub_board": null,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oEAkbCnsIABDflIubAAgQzVejJsizuc1n6v9Dn",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oEAkbCnsIABDflIubAAgQzVejJsizuc1n6v9Dn~noop.jpeg?x-expires=1684940400&x-signature=%2BgSgc3b%2Bx7xM0UNBwpH0HbQ70G4%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oEAkbCnsIABDflIubAAgQzVejJsizuc1n6v9Dn~noop.jpeg?x-expires=1684940400&x-signature=RLEIfmGkAz6WHOHcpFXoF6c%2B0ug%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oEAkbCnsIABDflIubAAgQzVejJsizuc1n6v9Dn~noop.jpeg?x-expires=1684940400&x-signature=O4m6nks6hNyS8KIfHMzyE6vP%2BTc%3D&from=3218412987"
+          ]
+        }
+      },
+      {
+        "position": 47,
+        "word_type": 1,
+        "event_time": 1684839946,
+        "aweme_infos": null,
+        "discuss_video_count": 1,
+        "hot_value": 7780155,
+        "group_id": "7234561083561415994",
+        "sentence_id": "1218797",
+        "hotlist_param": "{\"version\":1}",
+        "word_sub_board": null,
+        "word": "前TVB艺人温裕红去世",
+        "video_count": 3,
+        "sentence_tag": 2011,
+        "article_detail_count": 0,
+        "drift_info": null,
+        "label": 0,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oQAubykBi7ThAnfePiIBRPANnigtbYEs8JNEkz",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oQAubykBi7ThAnfePiIBRPANnigtbYEs8JNEkz~noop.jpeg?x-expires=1684940400&x-signature=Bhh0FSj%2FZ3wp3vgUGc4rHLmSb4Q%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oQAubykBi7ThAnfePiIBRPANnigtbYEs8JNEkz~noop.jpeg?x-expires=1684940400&x-signature=geEmEJSZEI%2Fpdt1OuxmM%2FdupfTw%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oQAubykBi7ThAnfePiIBRPANnigtbYEs8JNEkz~noop.jpeg?x-expires=1684940400&x-signature=GmNWMszZ102PzCRsWHOWLClEGso%3D&from=3218412987"
+          ]
+        },
+        "can_extend_detail": false,
+        "related_words": null,
+        "view_count": 3914819
+      },
+      {
+        "aweme_infos": null,
+        "word": "吴京到底给易烊千玺说了什么",
+        "video_count": 3,
+        "group_id": "7235149125473785120",
+        "article_detail_count": 0,
+        "label": 0,
+        "sentence_tag": 2006,
+        "word_sub_board": null,
+        "view_count": 1987146,
+        "drift_info": null,
+        "can_extend_detail": false,
+        "word_type": 1,
+        "sentence_id": "1218978",
+        "event_time": 1684845801,
+        "related_words": null,
+        "hotlist_param": "{\"version\":1}",
+        "discuss_video_count": 1,
+        "hot_value": 7754190,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/owIBseIQSCBkBHntQbwReEDADHlVi2dQhVeA76",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/owIBseIQSCBkBHntQbwReEDADHlVi2dQhVeA76~noop.jpeg?x-expires=1684940400&x-signature=BIu1ghinkJfk2HTb8Ds5cEA2eGQ%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/owIBseIQSCBkBHntQbwReEDADHlVi2dQhVeA76~noop.jpeg?x-expires=1684940400&x-signature=FeyllMKiA%2FCVnV99cONi4EmXZOs%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/owIBseIQSCBkBHntQbwReEDADHlVi2dQhVeA76~noop.jpeg?x-expires=1684940400&x-signature=%2FZynjMT0UxMLct3gbeepah%2FoQGM%3D&from=3218412987"
+          ]
+        },
+        "position": 48
+      },
+      {
+        "discuss_video_count": 1,
+        "article_detail_count": 0,
+        "sentence_id": "1218366",
+        "event_time": 1684829221,
+        "position": 49,
+        "group_id": "7097750227272291615",
+        "can_extend_detail": false,
+        "display_style": 0,
+        "word": "为什么年轻人戒不掉熬夜",
+        "label": 0,
+        "word_type": 1,
+        "related_words": null,
+        "view_count": 868210,
+        "drift_info": null,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/136fa5c5de32498fa57e43aaeabe5a8c_1684735645",
+          "url_list": [
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/136fa5c5de32498fa57e43aaeabe5a8c_1684735645~noop.jpeg?x-expires=1684940400&x-signature=BGdNS3hrLsSQxn4i57WRUBWw21o%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/136fa5c5de32498fa57e43aaeabe5a8c_1684735645~noop.jpeg?x-expires=1684940400&x-signature=si0Ztd69ucGkdbZII0DBV4980o0%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/136fa5c5de32498fa57e43aaeabe5a8c_1684735645~noop.jpeg?x-expires=1684940400&x-signature=0W9Ac6%2FTxuq5Hr0qxK%2BcFA4Bhfs%3D&from=3218412987"
+          ]
+        },
+        "video_count": 6,
+        "aweme_infos": null,
+        "sentence_tag": 20002,
+        "word_sub_board": null,
+        "hot_value": 7687607,
+        "hotlist_param": "{\"version\":1}"
+      },
+      {
+        "hot_value": 7669791,
+        "can_extend_detail": false,
+        "sentence_id": "1218825",
+        "drift_info": null,
+        "video_count": 1,
+        "group_id": "7235818616117417268",
+        "event_time": 1684840494,
+        "related_words": null,
+        "sentence_tag": 2003,
+        "article_detail_count": 0,
+        "word": "丁太升再评vava",
+        "label": 0,
+        "position": 50,
+        "view_count": 562570,
+        "hotlist_param": "{\"version\":1}",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/o4fCsAbDTgbUkY2C1QBZ9FAO3CIkenA7nCTIDZ",
+          "url_list": [
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/o4fCsAbDTgbUkY2C1QBZ9FAO3CIkenA7nCTIDZ~noop.jpeg?x-expires=1684940400&x-signature=HlwCxSLpwGzDV0h%2Brktk0eSd5UA%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o4fCsAbDTgbUkY2C1QBZ9FAO3CIkenA7nCTIDZ~noop.jpeg?x-expires=1684940400&x-signature=ptDv6cSL9rtCzBKGjgX6o7AVAYI%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/o4fCsAbDTgbUkY2C1QBZ9FAO3CIkenA7nCTIDZ~noop.jpeg?x-expires=1684940400&x-signature=k8gVPomaqfH7Wp%2BzRtP%2BcmuZW9I%3D&from=3218412987"
+          ]
+        },
+        "word_type": 1,
+        "aweme_infos": null,
+        "discuss_video_count": 1,
+        "word_sub_board": null
+      }
+    ],
+    "active_time": "2023-05-24 17:27:08",
+    "share_info": {
+      "share_url": "https://www.iesdouyin.com/share/billboard/?id=0",
+      "share_title": "我在看抖音热榜，发现最火的内容，赶快来看！",
+      "share_link_desc": "我在看抖音热榜，发现最火的内容，赶快来看！戳这里>>"
+    },
+    "trending_list": [
+      {
+        "label": 0,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/ocBsmWIAEqA5eHvfD173c22cJ5PiBCbQnByIea",
+          "url_list": [
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/ocBsmWIAEqA5eHvfD173c22cJ5PiBCbQnByIea~noop.jpeg?x-expires=1684940400&x-signature=jDZHUI1yNPSNnQlhGzou3BCVIF4%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocBsmWIAEqA5eHvfD173c22cJ5PiBCbQnByIea~noop.jpeg?x-expires=1684940400&x-signature=oN6TpQxc6KMI41FTU1H195RBexc%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ocBsmWIAEqA5eHvfD173c22cJ5PiBCbQnByIea~noop.jpeg?x-expires=1684940400&x-signature=Q9YyW2ThNRoijO7GjrjcyHCrvvg%3D&from=3218412987"
+          ]
+        },
+        "word_type": 3,
+        "discuss_video_count": 1,
+        "word": "上海夜空疑似流星坠落",
+        "group_id": "7235369968844690700",
+        "related_words": null,
+        "aweme_infos": null,
+        "word_sub_board": null,
+        "hot_value": 0,
+        "sentence_id": "1219700",
+        "event_time": 1684897636,
+        "sentence_tag": 22001,
+        "video_count": 4,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "article_detail_count": 0
+      },
+      {
+        "hot_value": 0,
+        "sentence_id": "1218142",
+        "related_words": null,
+        "sentence_tag": 5000,
+        "word_sub_board": null,
+        "label": 0,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oog8NDFHkAopqjKpAnBfDGYb8CTICQb9dAMfY0",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oog8NDFHkAopqjKpAnBfDGYb8CTICQb9dAMfY0~noop.jpeg?x-expires=1684940400&x-signature=71taQoFIV4Wglrm3Pmey%2FnHZ588%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oog8NDFHkAopqjKpAnBfDGYb8CTICQb9dAMfY0~noop.jpeg?x-expires=1684940400&x-signature=%2BnzGvadxuBgdt%2BlPfc4RcJaISp4%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oog8NDFHkAopqjKpAnBfDGYb8CTICQb9dAMfY0~noop.jpeg?x-expires=1684940400&x-signature=W41c6pGt%2B4xsM1s%2BUWmA3FQQvbk%3D&from=3218412987"
+          ]
+        },
+        "event_time": 1684822802,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "group_id": "6615376163374109955",
+        "aweme_infos": null,
+        "word": "詹姆斯 退役",
+        "video_count": 6,
+        "word_type": 3,
+        "display_style": 0,
+        "discuss_video_count": 0,
+        "article_detail_count": 5
+      },
+      {
+        "sentence_id": "1219335",
+        "discuss_video_count": 1,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oovkN7SiPAMFE949gIeEbyCn1bo4ufGDAABLYQ",
+          "url_list": [
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/oovkN7SiPAMFE949gIeEbyCn1bo4ufGDAABLYQ~noop.jpeg?x-expires=1684940400&x-signature=o1a1bVh%2Biow%2Fbrrqkdmo9HUgkZk%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oovkN7SiPAMFE949gIeEbyCn1bo4ufGDAABLYQ~noop.jpeg?x-expires=1684940400&x-signature=6gtc304CRu%2BJFdz44STlXQVXsjY%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oovkN7SiPAMFE949gIeEbyCn1bo4ufGDAABLYQ~noop.jpeg?x-expires=1684940400&x-signature=rMLKXZDwNAHOMA5C1IOpYHa52Xo%3D&from=3218412987"
+          ]
+        },
+        "event_time": 1684883926,
+        "aweme_infos": null,
+        "word_sub_board": null,
+        "video_count": 1,
+        "group_id": "7234598798519964985",
+        "related_words": null,
+        "hotlist_param": "{\"version\":1}",
+        "sentence_tag": 9000,
+        "word": "老潮汕蚝烙有多香",
+        "label": 0,
+        "hot_value": 0,
+        "word_type": 3,
+        "drift_info": null,
+        "article_detail_count": 0
+      },
+      {
+        "label": 0,
+        "group_id": "7235661908409783604",
+        "word_type": 3,
+        "sentence_id": "1218660",
+        "word": "Lisa的一周有多忙",
+        "video_count": 7,
+        "event_time": 1684835536,
+        "hotlist_param": "{\"version\":1}",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/ooj2GIfQnNO0PCfKADbqAEEdKeatEIBBxKw7EY",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ooj2GIfQnNO0PCfKADbqAEEdKeatEIBBxKw7EY~noop.jpeg?x-expires=1684940400&x-signature=RmXftYYFMqqacIrhavbKJn0Ztxw%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ooj2GIfQnNO0PCfKADbqAEEdKeatEIBBxKw7EY~noop.jpeg?x-expires=1684940400&x-signature=AkhZtVFlC7pTbKKG8HekbSyOCwM%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/ooj2GIfQnNO0PCfKADbqAEEdKeatEIBBxKw7EY~noop.jpeg?x-expires=1684940400&x-signature=Hgbj28Q4zCZKCxB2nVYOKBAL%2FVs%3D&from=3218412987"
+          ]
+        },
+        "related_words": null,
+        "aweme_infos": null,
+        "word_sub_board": null,
+        "article_detail_count": 0,
+        "hot_value": 0,
+        "drift_info": null,
+        "sentence_tag": 2012,
+        "discuss_video_count": 1
+      },
+      {
+        "label": 0,
+        "video_count": 8,
+        "event_time": 1684834372,
+        "related_words": null,
+        "drift_info": null,
+        "hotlist_param": "{\"version\":1}",
+        "sentence_tag": 4003,
+        "word": "3人强奸未成年人被执行死刑",
+        "article_detail_count": 1,
+        "word_sub_board": null,
+        "aweme_infos": null,
+        "group_id": "7234543691095283004",
+        "word_type": 3,
+        "discuss_video_count": 0,
+        "word_cover": {
+          "uri": "tos-cn-p-0015/08b6d577341e42fbb9ea46fea1b9c51f_1684844212",
+          "url_list": [
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/08b6d577341e42fbb9ea46fea1b9c51f_1684844212~noop.jpeg?x-expires=1684940400&x-signature=6ioj2TNAVgIqkhItH1XGoS4N4Gg%3D&from=3218412987",
+            "https://p6-sign.douyinpic.com/tos-cn-p-0015/08b6d577341e42fbb9ea46fea1b9c51f_1684844212~noop.jpeg?x-expires=1684940400&x-signature=cUaSMWl2LVf8%2F7QS8KRE%2BGBhOsM%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/08b6d577341e42fbb9ea46fea1b9c51f_1684844212~noop.jpeg?x-expires=1684940400&x-signature=LcgYH2vdUOjCUVq6SxxRk7r2ktE%3D&from=3218412987"
+          ]
+        },
+        "sentence_id": "1218641",
+        "hot_value": 0
+      }
+    ]
+  }
+}
